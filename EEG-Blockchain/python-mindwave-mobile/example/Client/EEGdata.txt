@@ -1,0 +1,480 @@
+Discovered Mindwave Mobile...
+Unknown OpCode. Value: 4
+Unknown OpCode. Value: 5
+Meditation Level: 0
+Attention Level: 0
+EEG Powers:
+                delta: 0
+                theta: 1
+                lowAlpha: 0
+                highAlpha: 2
+                lowBeta: 1
+                highBeta: 1
+                lowGamma: 0
+                midGamma: 0
+                
+Poor Signal Level: 25
+Meditation Level: 0
+Attention Level: 0
+EEG Powers:
+                delta: 1
+                theta: 0
+                lowAlpha: 0
+                highAlpha: 0
+                lowBeta: 0
+                highBeta: 0
+                lowGamma: 0
+                midGamma: 0
+                
+Poor Signal Level: 25
+Meditation Level: 0
+Attention Level: 0
+EEG Powers:
+                delta: 915395
+                theta: 400204
+                lowAlpha: 90762
+                highAlpha: 114951
+                lowBeta: 28117
+                highBeta: 9871
+                lowGamma: 15224
+                midGamma: 12215
+                
+Poor Signal Level: 25
+Meditation Level: 0
+Attention Level: 0
+EEG Powers:
+                delta: 168323
+                theta: 94376
+                lowAlpha: 13543
+                highAlpha: 8642
+                lowBeta: 1610
+                highBeta: 2602
+                lowGamma: 1232
+                midGamma: 1108
+                
+Poor Signal Level: 0
+Meditation Level: 0
+Attention Level: 0
+EEG Powers:
+                delta: 20693
+                theta: 38870
+                lowAlpha: 9448
+                highAlpha: 8681
+                lowBeta: 10339
+                highBeta: 9745
+                lowGamma: 9593
+                midGamma: 3268
+                
+Poor Signal Level: 0
+Meditation Level: 0
+Attention Level: 0
+EEG Powers:
+                delta: 110307
+                theta: 40045
+                lowAlpha: 10804
+                highAlpha: 12505
+                lowBeta: 7840
+                highBeta: 8564
+                lowGamma: 2606
+                midGamma: 9385
+                
+Poor Signal Level: 0
+Meditation Level: 30
+Attention Level: 41
+EEG Powers:
+                delta: 165885
+                theta: 26202
+                lowAlpha: 2146
+                highAlpha: 909
+                lowBeta: 2608
+                highBeta: 1830
+                lowGamma: 2399
+                midGamma: 429
+                
+Poor Signal Level: 0
+Meditation Level: 54
+Attention Level: 53
+EEG Powers:
+                delta: 831895
+                theta: 39416
+                lowAlpha: 45818
+                highAlpha: 17570
+                lowBeta: 12439
+                highBeta: 15378
+                lowGamma: 11017
+                midGamma: 5474
+                
+Poor Signal Level: 0
+Meditation Level: 51
+Attention Level: 50
+EEG Powers:
+                delta: 119392
+                theta: 277914
+                lowAlpha: 37632
+                highAlpha: 10506
+                lowBeta: 6241
+                highBeta: 11941
+                lowGamma: 13616
+                midGamma: 9197
+                
+Poor Signal Level: 0
+Meditation Level: 56
+Attention Level: 48
+EEG Powers:
+                delta: 328004
+                theta: 41419
+                lowAlpha: 5341
+                highAlpha: 6560
+                lowBeta: 5609
+                highBeta: 1957
+                lowGamma: 867
+                midGamma: 830
+                
+Poor Signal Level: 0
+Meditation Level: 75
+Attention Level: 63
+EEG Powers:
+                delta: 103591
+                theta: 30770
+                lowAlpha: 17922
+                highAlpha: 7163
+                lowBeta: 15040
+                highBeta: 16877
+                lowGamma: 8067
+                midGamma: 2814
+                
+Poor Signal Level: 0
+Meditation Level: 69
+Attention Level: 53
+EEG Powers:
+                delta: 339451
+                theta: 73325
+                lowAlpha: 41098
+                highAlpha: 13005
+                lowBeta: 12338
+                highBeta: 7091
+                lowGamma: 6136
+                midGamma: 3775
+                
+Poor Signal Level: 0
+Meditation Level: 78
+Attention Level: 75
+EEG Powers:
+                delta: 220352
+                theta: 21071
+                lowAlpha: 6798
+                highAlpha: 4908
+                lowBeta: 6877
+                highBeta: 11619
+                lowGamma: 5931
+                midGamma: 4223
+                
+Poor Signal Level: 0
+Meditation Level: 74
+Attention Level: 100
+EEG Powers:
+                delta: 10667
+                theta: 20716
+                lowAlpha: 6624
+                highAlpha: 758
+                lowBeta: 10597
+                highBeta: 16318
+                lowGamma: 8066
+                midGamma: 8744
+                
+Poor Signal Level: 0
+Meditation Level: 70
+Attention Level: 97
+EEG Powers:
+                delta: 3832
+                theta: 11533
+                lowAlpha: 8723
+                highAlpha: 3166
+                lowBeta: 13210
+                highBeta: 6467
+                lowGamma: 5211
+                midGamma: 2696
+                
+Poor Signal Level: 0
+Meditation Level: 53
+Attention Level: 100
+EEG Powers:
+                delta: 1373646
+                theta: 72271
+                lowAlpha: 9807
+                highAlpha: 3622
+                lowBeta: 3011
+                highBeta: 10024
+                lowGamma: 4749
+                midGamma: 11105
+                
+Poor Signal Level: 0
+Meditation Level: 51
+Attention Level: 90
+EEG Powers:
+                delta: 65136
+                theta: 26839
+                lowAlpha: 5512
+                highAlpha: 2773
+                lowBeta: 2429
+                highBeta: 2675
+                lowGamma: 648
+                midGamma: 2333
+                
+Poor Signal Level: 0
+Meditation Level: 66
+Attention Level: 88
+EEG Powers:
+                delta: 10560
+                theta: 19911
+                lowAlpha: 4817
+                highAlpha: 13714
+                lowBeta: 3837
+                highBeta: 19904
+                lowGamma: 4235
+                midGamma: 3677
+                
+Poor Signal Level: 0
+Meditation Level: 60
+Attention Level: 81
+EEG Powers:
+                delta: 43123
+                theta: 18542
+                lowAlpha: 4994
+                highAlpha: 1334
+                lowBeta: 5870
+                highBeta: 3506
+                lowGamma: 882
+                midGamma: 1476
+                
+Poor Signal Level: 0
+Meditation Level: 51
+Attention Level: 77
+EEG Powers:
+                delta: 645070
+                theta: 520353
+                lowAlpha: 23314
+                highAlpha: 27404
+                lowBeta: 12413
+                highBeta: 41618
+                lowGamma: 16240
+                midGamma: 11762
+                
+Poor Signal Level: 0
+Meditation Level: 51
+Attention Level: 64
+EEG Powers:
+                delta: 28672
+                theta: 87712
+                lowAlpha: 19056
+                highAlpha: 6289
+                lowBeta: 5096
+                highBeta: 2420
+                lowGamma: 6282
+                midGamma: 4974
+                
+Poor Signal Level: 0
+Meditation Level: 50
+Attention Level: 47
+EEG Powers:
+                delta: 102873
+                theta: 40723
+                lowAlpha: 11285
+                highAlpha: 9975
+                lowBeta: 4992
+                highBeta: 4596
+                lowGamma: 7166
+                midGamma: 2210
+                
+Poor Signal Level: 0
+Meditation Level: 38
+Attention Level: 34
+EEG Powers:
+                delta: 1417203
+                theta: 490289
+                lowAlpha: 20583
+                highAlpha: 36413
+                lowBeta: 32663
+                highBeta: 21879
+                lowGamma: 16393
+                midGamma: 12410
+                
+Poor Signal Level: 0
+Meditation Level: 70
+Attention Level: 35
+EEG Powers:
+                delta: 57016
+                theta: 8555
+                lowAlpha: 16829
+                highAlpha: 3413
+                lowBeta: 5671
+                highBeta: 2329
+                lowGamma: 2876
+                midGamma: 590
+                
+Poor Signal Level: 0
+Meditation Level: 63
+Attention Level: 40
+EEG Powers:
+                delta: 21408
+                theta: 48130
+                lowAlpha: 6002
+                highAlpha: 1995
+                lowBeta: 1713
+                highBeta: 2046
+                lowGamma: 1068
+                midGamma: 766
+                
+Poor Signal Level: 0
+Meditation Level: 50
+Attention Level: 35
+EEG Powers:
+                delta: 40296
+                theta: 227682
+                lowAlpha: 37339
+                highAlpha: 10305
+                lowBeta: 10281
+                highBeta: 11742
+                lowGamma: 4053
+                midGamma: 3186
+                
+Poor Signal Level: 0
+Meditation Level: 70
+Attention Level: 43
+EEG Powers:
+                delta: 154285
+                theta: 114149
+                lowAlpha: 55087
+                highAlpha: 21434
+                lowBeta: 18491
+                highBeta: 17025
+                lowGamma: 6582
+                midGamma: 10627
+                
+Poor Signal Level: 0
+Meditation Level: 34
+Attention Level: 35
+EEG Powers:
+                delta: 158260
+                theta: 23747
+                lowAlpha: 620
+                highAlpha: 1043
+                lowBeta: 1077
+                highBeta: 789
+                lowGamma: 483
+                midGamma: 490
+                
+Poor Signal Level: 0
+Meditation Level: 35
+Attention Level: 40
+EEG Powers:
+                delta: 88037
+                theta: 239184
+                lowAlpha: 21960
+                highAlpha: 24282
+                lowBeta: 4415
+                highBeta: 16811
+                lowGamma: 7670
+                midGamma: 4131
+                
+Poor Signal Level: 0
+Meditation Level: 26
+Attention Level: 23
+EEG Powers:
+                delta: 1394003
+                theta: 1074111
+                lowAlpha: 96867
+                highAlpha: 16970
+                lowBeta: 16538
+                highBeta: 4682
+                lowGamma: 13285
+                midGamma: 3190
+                
+Poor Signal Level: 0
+Meditation Level: 20
+Attention Level: 23
+EEG Powers:
+                delta: 122001
+                theta: 35161
+                lowAlpha: 9771
+                highAlpha: 3455
+                lowBeta: 3902
+                highBeta: 3127
+                lowGamma: 921
+                midGamma: 1195
+                
+Poor Signal Level: 0
+Meditation Level: 43
+Attention Level: 35
+EEG Powers:
+                delta: 420988
+                theta: 32958
+                lowAlpha: 7700
+                highAlpha: 5794
+                lowBeta: 260
+                highBeta: 4054
+                lowGamma: 2043
+                midGamma: 659
+                
+Poor Signal Level: 0
+Meditation Level: 37
+Attention Level: 24
+EEG Powers:
+                delta: 4771
+                theta: 343801
+                lowAlpha: 30705
+                highAlpha: 6953
+                lowBeta: 8927
+                highBeta: 4653
+                lowGamma: 2914
+                midGamma: 4279
+                
+Poor Signal Level: 0
+Meditation Level: 43
+Attention Level: 34
+EEG Powers:
+                delta: 11646
+                theta: 379686
+                lowAlpha: 40463
+                highAlpha: 15244
+                lowBeta: 3577
+                highBeta: 4652
+                lowGamma: 5001
+                midGamma: 4511
+                
+Poor Signal Level: 0
+Meditation Level: 30
+Attention Level: 24
+EEG Powers:
+                delta: 714467
+                theta: 436954
+                lowAlpha: 42235
+                highAlpha: 16687
+                lowBeta: 10169
+                highBeta: 13790
+                lowGamma: 12239
+                midGamma: 8323
+                
+Poor Signal Level: 0
+Meditation Level: 27
+Attention Level: 26
+EEG Powers:
+                delta: 40114
+                theta: 309750
+                lowAlpha: 89525
+                highAlpha: 16778
+                lowBeta: 19853
+                highBeta: 37150
+                lowGamma: 13978
+                midGamma: 3338
+                
+Poor Signal Level: 0
+Meditation Level: 30
+Attention Level: 37
+EEG Powers:
+                delta: 452936
+                theta: 115262
+
+test integrity
+
+

@@ -1,0 +1,229 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node',
+1 verbose cli   '/usr/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '--save',
+1 verbose cli   'generate-contract-factory' ]
+2 info using npm@3.5.2
+3 info using node@v8.10.0
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly fetchPackageMetaData generate-contract-factory
+8 silly fetchNamedPackageData generate-contract-factory
+9 silly mapToRegistry name generate-contract-factory
+10 silly mapToRegistry using default registry
+11 silly mapToRegistry registry https://registry.npmjs.org/
+12 silly mapToRegistry uri https://registry.npmjs.org/generate-contract-factory
+13 verbose request uri https://registry.npmjs.org/generate-contract-factory
+14 verbose request no auth needed
+15 info attempt registry request try #1 at 6:47:29 AM
+16 verbose request id e695c369774170da
+17 verbose etag W/"f8bc2a7e79285a1c1e97e29973305f0c"
+18 verbose lastModified Sun, 27 May 2018 01:38:17 GMT
+19 http request GET https://registry.npmjs.org/generate-contract-factory
+20 http 304 https://registry.npmjs.org/generate-contract-factory
+21 verbose headers { date: 'Mon, 09 Jul 2018 13:47:29 GMT',
+21 verbose headers   connection: 'keep-alive',
+21 verbose headers   'set-cookie':
+21 verbose headers    [ '__cfduid=decc5c8dc80e7ac2f297bead908da774a1531144049; expires=Tue, 09-Jul-19 13:47:29 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+21 verbose headers   'cache-control': 'max-age=300',
+21 verbose headers   'cf-cache-status': 'HIT',
+21 verbose headers   'cf-ray': '437b3e25dc89a1af-ICN',
+21 verbose headers   etag: '"f8bc2a7e79285a1c1e97e29973305f0c"',
+21 verbose headers   'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+21 verbose headers   'last-modified': 'Sun, 27 May 2018 01:38:17 GMT',
+21 verbose headers   vary: 'accept-encoding, accept',
+21 verbose headers   server: 'cloudflare' }
+22 silly get cb [ 304,
+22 silly get   { date: 'Mon, 09 Jul 2018 13:47:29 GMT',
+22 silly get     connection: 'keep-alive',
+22 silly get     'set-cookie':
+22 silly get      [ '__cfduid=decc5c8dc80e7ac2f297bead908da774a1531144049; expires=Tue, 09-Jul-19 13:47:29 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+22 silly get     'cache-control': 'max-age=300',
+22 silly get     'cf-cache-status': 'HIT',
+22 silly get     'cf-ray': '437b3e25dc89a1af-ICN',
+22 silly get     etag: '"f8bc2a7e79285a1c1e97e29973305f0c"',
+22 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+22 silly get     'last-modified': 'Sun, 27 May 2018 01:38:17 GMT',
+22 silly get     vary: 'accept-encoding, accept',
+22 silly get     server: 'cloudflare' } ]
+23 verbose etag https://registry.npmjs.org/generate-contract-factory from cache
+24 verbose get saving generate-contract-factory to /home/bsj/.npm/registry.npmjs.org/generate-contract-factory/.cache.json
+25 silly install normalizeTree
+26 silly loadCurrentTree Finishing
+27 silly loadIdealTree Starting
+28 silly install loadIdealTree
+29 silly cloneCurrentTree Starting
+30 silly install cloneCurrentTreeToIdealTree
+31 silly cloneCurrentTree Finishing
+32 silly loadShrinkwrap Starting
+33 silly install loadShrinkwrap
+34 silly loadShrinkwrap Finishing
+35 silly loadAllDepsIntoIdealTree Starting
+36 silly install loadAllDepsIntoIdealTree
+37 silly resolveWithNewModule generate-contract-factory@0.1.4 checking installable status
+38 silly cache add args [ 'generate-contract-factory', null ]
+39 verbose cache add spec generate-contract-factory
+40 silly cache add parsed spec Result {
+40 silly cache add   raw: 'generate-contract-factory',
+40 silly cache add   scope: null,
+40 silly cache add   name: 'generate-contract-factory',
+40 silly cache add   rawSpec: '',
+40 silly cache add   spec: 'latest',
+40 silly cache add   type: 'tag' }
+41 silly addNamed generate-contract-factory@latest
+42 verbose addNamed "latest" is being treated as a dist-tag for generate-contract-factory
+43 info addNameTag [ 'generate-contract-factory', 'latest' ]
+44 silly mapToRegistry name generate-contract-factory
+45 silly mapToRegistry using default registry
+46 silly mapToRegistry registry https://registry.npmjs.org/
+47 silly mapToRegistry uri https://registry.npmjs.org/generate-contract-factory
+48 verbose addNameTag registry:https://registry.npmjs.org/generate-contract-factory not in flight; fetching
+49 verbose get https://registry.npmjs.org/generate-contract-factory not expired, no request
+50 silly addNameTag next cb for generate-contract-factory with tag latest
+51 silly addNamed generate-contract-factory@0.1.4
+52 verbose addNamed "0.1.4" is a plain semver version for generate-contract-factory
+53 silly cache afterAdd generate-contract-factory@0.1.4
+54 verbose afterAdd /home/bsj/.npm/generate-contract-factory/0.1.4/package/package.json not in flight; writing
+55 verbose afterAdd /home/bsj/.npm/generate-contract-factory/0.1.4/package/package.json written
+56 silly fetchNamedPackageData get-stdin-promise
+57 silly mapToRegistry name get-stdin-promise
+58 silly mapToRegistry using default registry
+59 silly mapToRegistry registry https://registry.npmjs.org/
+60 silly mapToRegistry uri https://registry.npmjs.org/get-stdin-promise
+61 silly fetchOtherPackageData solidity-parser@git://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84
+62 silly cache add args [ 'solidity-parser@git://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84',
+62 silly cache add   null ]
+63 verbose cache add spec solidity-parser@git://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84
+64 silly cache add parsed spec Result {
+64 silly cache add   raw: 'solidity-parser@git://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84',
+64 silly cache add   scope: null,
+64 silly cache add   name: 'solidity-parser',
+64 silly cache add   rawSpec: 'git://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84',
+64 silly cache add   spec: 'git://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84',
+64 silly cache add   type: 'hosted',
+64 silly cache add   hosted:
+64 silly cache add    { type: 'github',
+64 silly cache add      ssh: 'git@github.com:raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84',
+64 silly cache add      sshUrl: 'git+ssh://git@github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84',
+64 silly cache add      httpsUrl: 'git+https://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84',
+64 silly cache add      gitUrl: 'git://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84',
+64 silly cache add      shortcut: 'github:raineorshine/solidity-parser#326da052567245c9d9a0ba941bd9923aa89cda84',
+64 silly cache add      directUrl: 'https://raw.githubusercontent.com/raineorshine/solidity-parser/326da052567245c9d9a0ba941bd9923aa89cda84/package.json' } }
+65 verbose addRemoteGit caching git://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84
+66 verbose addRemoteGit git://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84 is a repository hosted by github
+67 silly tryClone cloning git://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84 via git://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84
+68 verbose tryClone git-github-com-raineorshine-solidity-parser-git-326da052567245c9d9a0ba941bd9923aa89cda84-3f852189 not in flight; caching
+69 verbose request uri https://registry.npmjs.org/get-stdin-promise
+70 verbose request no auth needed
+71 info attempt registry request try #1 at 6:47:29 AM
+72 verbose etag W/"00b86127333f3f7eba9401a2f201b997"
+73 verbose lastModified Sun, 27 May 2018 02:11:48 GMT
+74 http request GET https://registry.npmjs.org/get-stdin-promise
+75 warn addRemoteGit Error: not found: git
+75 warn addRemoteGit     at F (/usr/share/npm/node_modules/which/which.js:78:19)
+75 warn addRemoteGit     at E (/usr/share/npm/node_modules/which/which.js:82:29)
+75 warn addRemoteGit     at /usr/share/npm/node_modules/which/which.js:93:16
+75 warn addRemoteGit     at FSReqWrap.oncomplete (fs.js:152:21)
+75 warn addRemoteGit  git://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84 resetting remote /home/bsj/.npm/_git-remotes/git-github-com-raineorshine-solidity-parser-git-326da052567245c9d9a0ba941bd9923aa89cda84-3f852189 because of error: { Error: not found: git
+75 warn addRemoteGit     at F (/usr/share/npm/node_modules/which/which.js:78:19)
+75 warn addRemoteGit     at E (/usr/share/npm/node_modules/which/which.js:82:29)
+75 warn addRemoteGit     at /usr/share/npm/node_modules/which/which.js:93:16
+75 warn addRemoteGit     at FSReqWrap.oncomplete (fs.js:152:21) code: 'ENOGIT' }
+76 info resetRemote resetting /home/bsj/.npm/_git-remotes/git-github-com-raineorshine-solidity-parser-git-326da052567245c9d9a0ba941bd9923aa89cda84-3f852189 for git://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84
+77 silly gentlyRm /home/bsj/.npm/_git-remotes/git-github-com-raineorshine-solidity-parser-git-326da052567245c9d9a0ba941bd9923aa89cda84-3f852189 is being purged
+78 verbose gentlyRm don't care about contents; nuking /home/bsj/.npm/_git-remotes/git-github-com-raineorshine-solidity-parser-git-326da052567245c9d9a0ba941bd9923aa89cda84-3f852189
+79 silly vacuum-fs purging /home/bsj/.npm/_git-remotes/git-github-com-raineorshine-solidity-parser-git-326da052567245c9d9a0ba941bd9923aa89cda84-3f852189
+80 silly vacuum-fs quitting because other entries in /home/bsj/.npm/_git-remotes
+81 error git clone --template=/home/bsj/.npm/_git-remotes/_templates --mirror git://github.com/raineorshine/solidity-parser.git /home/bsj/.npm/_git-remotes/git-github-com-raineorshine-solidity-parser-git-326da052567245c9d9a0ba941bd9923aa89cda84-3f852189: undefined
+81 error git clone --template=/home/bsj/.npm/_git-remotes/_templates --mirror git://github.com/raineorshine/solidity-parser.git /home/bsj/.npm/_git-remotes/git-github-com-raineorshine-solidity-parser-git-326da052567245c9d9a0ba941bd9923aa89cda84-3f852189: undefined
+82 silly fetchPackageMetaData Error: not found: git
+82 silly fetchPackageMetaData     at F (/usr/share/npm/node_modules/which/which.js:78:19)
+82 silly fetchPackageMetaData     at E (/usr/share/npm/node_modules/which/which.js:82:29)
+82 silly fetchPackageMetaData     at /usr/share/npm/node_modules/which/which.js:93:16
+82 silly fetchPackageMetaData     at FSReqWrap.oncomplete (fs.js:152:21)
+82 silly fetchPackageMetaData  error for solidity-parser@git://github.com/raineorshine/solidity-parser.git#326da052567245c9d9a0ba941bd9923aa89cda84 { Error: not found: git
+82 silly fetchPackageMetaData     at F (/usr/share/npm/node_modules/which/which.js:78:19)
+82 silly fetchPackageMetaData     at E (/usr/share/npm/node_modules/which/which.js:82:29)
+82 silly fetchPackageMetaData     at /usr/share/npm/node_modules/which/which.js:93:16
+82 silly fetchPackageMetaData     at FSReqWrap.oncomplete (fs.js:152:21) code: 'ENOGIT' }
+83 http 304 https://registry.npmjs.org/get-stdin-promise
+84 verbose headers { date: 'Mon, 09 Jul 2018 13:47:29 GMT',
+84 verbose headers   connection: 'keep-alive',
+84 verbose headers   'set-cookie':
+84 verbose headers    [ '__cfduid=decc5c8dc80e7ac2f297bead908da774a1531144049; expires=Tue, 09-Jul-19 13:47:29 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+84 verbose headers   'cache-control': 'max-age=300',
+84 verbose headers   'cf-cache-status': 'HIT',
+84 verbose headers   'cf-ray': '437b3e267d12a1af-ICN',
+84 verbose headers   etag: '"00b86127333f3f7eba9401a2f201b997"',
+84 verbose headers   'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+84 verbose headers   'last-modified': 'Sun, 27 May 2018 02:11:48 GMT',
+84 verbose headers   vary: 'accept-encoding, accept',
+84 verbose headers   server: 'cloudflare' }
+85 silly get cb [ 304,
+85 silly get   { date: 'Mon, 09 Jul 2018 13:47:29 GMT',
+85 silly get     connection: 'keep-alive',
+85 silly get     'set-cookie':
+85 silly get      [ '__cfduid=decc5c8dc80e7ac2f297bead908da774a1531144049; expires=Tue, 09-Jul-19 13:47:29 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+85 silly get     'cache-control': 'max-age=300',
+85 silly get     'cf-cache-status': 'HIT',
+85 silly get     'cf-ray': '437b3e267d12a1af-ICN',
+85 silly get     etag: '"00b86127333f3f7eba9401a2f201b997"',
+85 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+85 silly get     'last-modified': 'Sun, 27 May 2018 02:11:48 GMT',
+85 silly get     vary: 'accept-encoding, accept',
+85 silly get     server: 'cloudflare' } ]
+86 verbose etag https://registry.npmjs.org/get-stdin-promise from cache
+87 verbose get saving get-stdin-promise to /home/bsj/.npm/registry.npmjs.org/get-stdin-promise/.cache.json
+88 silly resolveWithNewModule get-stdin-promise@0.1.1 checking installable status
+89 silly cache add args [ 'get-stdin-promise@^0.1.1', null ]
+90 verbose cache add spec get-stdin-promise@^0.1.1
+91 silly cache add parsed spec Result {
+91 silly cache add   raw: 'get-stdin-promise@^0.1.1',
+91 silly cache add   scope: null,
+91 silly cache add   name: 'get-stdin-promise',
+91 silly cache add   rawSpec: '^0.1.1',
+91 silly cache add   spec: '>=0.1.1 <0.2.0',
+91 silly cache add   type: 'range' }
+92 silly addNamed get-stdin-promise@>=0.1.1 <0.2.0
+93 verbose addNamed ">=0.1.1 <0.2.0" is a valid semver range for get-stdin-promise
+94 silly addNameRange { name: 'get-stdin-promise',
+94 silly addNameRange   range: '>=0.1.1 <0.2.0',
+94 silly addNameRange   hasData: false }
+95 silly mapToRegistry name get-stdin-promise
+96 silly mapToRegistry using default registry
+97 silly mapToRegistry registry https://registry.npmjs.org/
+98 silly mapToRegistry uri https://registry.npmjs.org/get-stdin-promise
+99 verbose addNameRange registry:https://registry.npmjs.org/get-stdin-promise not in flight; fetching
+100 verbose get https://registry.npmjs.org/get-stdin-promise not expired, no request
+101 silly addNameRange number 2 { name: 'get-stdin-promise',
+101 silly addNameRange   range: '>=0.1.1 <0.2.0',
+101 silly addNameRange   hasData: true }
+102 silly addNameRange versions [ 'get-stdin-promise', [ '0.1.0', '0.1.1' ] ]
+103 silly addNamed get-stdin-promise@0.1.1
+104 verbose addNamed "0.1.1" is a plain semver version for get-stdin-promise
+105 silly cache afterAdd get-stdin-promise@0.1.1
+106 verbose afterAdd /home/bsj/.npm/get-stdin-promise/0.1.1/package/package.json not in flight; writing
+107 verbose afterAdd /home/bsj/.npm/get-stdin-promise/0.1.1/package/package.json written
+108 silly rollbackFailedOptional Starting
+109 silly rollbackFailedOptional Finishing
+110 silly runTopLevelLifecycles Starting
+111 silly runTopLevelLifecycles Finishing
+112 silly install printInstalled
+113 verbose stack Error: not found: git
+113 verbose stack     at F (/usr/share/npm/node_modules/which/which.js:78:19)
+113 verbose stack     at E (/usr/share/npm/node_modules/which/which.js:82:29)
+113 verbose stack     at /usr/share/npm/node_modules/which/which.js:93:16
+113 verbose stack     at FSReqWrap.oncomplete (fs.js:152:21)
+114 verbose cwd /home/bsj/Desktop/MyResearch/python-mindwave-mobile/example
+115 error Linux 4.15.0-20-generic
+116 error argv "/usr/bin/node" "/usr/bin/npm" "install" "--save" "generate-contract-factory"
+117 error node v8.10.0
+118 error npm  v3.5.2
+119 error code ENOGIT
+120 error not found: git
+121 error Failed using git.
+121 error This is most likely not a problem with npm itself.
+121 error Please check if you have git installed and in your PATH.
+122 verbose exit [ 1, true ]
